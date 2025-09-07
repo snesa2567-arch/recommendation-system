@@ -53,7 +53,7 @@ show_accessories = st.checkbox("Show accessories?")
 if selected_color:
 
     input_row = df[df[color_col] == selected_color].iloc[0]
-    rgb_col = [col for col in df.columns if "RGB" in col][0]  # detect RGB column
+    rgb_col = [col for col in df.columns if "RGB" in col][0]  
     input_rgb = np.array(eval(input_row[rgb_col])).reshape(1, -1)
 
     results = []
