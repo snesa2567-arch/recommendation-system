@@ -1,0 +1,201 @@
+Top Color,Top RGB,Bottom Color,Bottom RGB,Accessories,Popularity Score,Occasion
+Navy,"(0, 0, 128)",Brown,"(139, 69, 19)","Shoes, Chain",95,Party
+Red,"(255, 0, 0)",Brown,"(139, 69, 19)",Shoes,55,Office
+Maroon,"(128, 0, 0)",Grey,"(128, 128, 128)","Chain, Watch, Shoes",70,Casual
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)","Bracelet, Watch, Belt",85,Party
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)","Belt, Chain, Shoes",81,Party
+Blue,"(0, 0, 255)",Blue,"(0, 0, 255)","Watch, Shoes",69,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Bracelet, Belt",69,Office
+Purple,"(128, 0, 128)",White,"(255, 255, 255)",Shoes,83,Casual
+Purple,"(128, 0, 128)",Brown,"(139, 69, 19)",Bracelet,73,Party
+Green,"(0, 128, 0)",Khaki,"(195, 176, 145)","Watch, Bracelet, Belt",57,Party
+Green,"(0, 128, 0)",Black,"(0, 0, 0)","Shoes, Belt",56,Casual
+White,"(255, 255, 255)",Blue,"(0, 0, 255)",Belt,94,Casual
+Pink,"(255, 192, 203)",White,"(255, 255, 255)","Bracelet, Chain",79,Office
+Black,"(0, 0, 0)",Beige,"(245, 245, 220)","Watch, Shoes",76,Party
+Pink,"(255, 192, 203)",Brown,"(139, 69, 19)","Bracelet, Belt, Watch",77,Casual
+Green,"(0, 128, 0)",Khaki,"(195, 176, 145)","Bracelet, Chain",98,Office
+Blue,"(0, 0, 255)",Grey,"(128, 128, 128)","Watch, Belt",63,Office
+Blue,"(0, 0, 255)",Khaki,"(195, 176, 145)","Shoes, Watch, Bracelet",83,Casual
+Black,"(0, 0, 0)",Brown,"(139, 69, 19)","Bracelet, Shoes",81,Office
+Green,"(0, 128, 0)",Brown,"(139, 69, 19)","Chain, Bracelet",67,Party
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)",Chain,66,Casual
+White,"(255, 255, 255)",Navy,"(0, 0, 128)","Watch, Bracelet",77,Party
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)","Shoes, Watch, Belt",93,Casual
+Maroon,"(128, 0, 0)",Brown,"(139, 69, 19)",Watch,65,Party
+Purple,"(128, 0, 128)",Blue,"(0, 0, 255)","Chain, Bracelet",64,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Chain, Watch",61,Casual
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)",Watch,62,Party
+Grey,"(128, 128, 128)",Navy,"(0, 0, 128)","Belt, Watch, Chain",50,Casual
+Green,"(0, 128, 0)",White,"(255, 255, 255)",Shoes,82,Office
+Grey,"(128, 128, 128)",Khaki,"(195, 176, 145)","Shoes, Chain, Bracelet",74,Party
+Pink,"(255, 192, 203)",Black,"(0, 0, 0)","Chain, Watch, Belt",52,Office
+Maroon,"(128, 0, 0)",Navy,"(0, 0, 128)","Shoes, Belt, Bracelet",97,Party
+Navy,"(0, 0, 128)",Black,"(0, 0, 0)","Watch, Belt",81,Casual
+Maroon,"(128, 0, 0)",Grey,"(128, 128, 128)","Bracelet, Watch",78,Office
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)",Watch,93,Party
+Red,"(255, 0, 0)",Brown,"(139, 69, 19)","Bracelet, Belt",96,Party
+Maroon,"(128, 0, 0)",White,"(255, 255, 255)",Bracelet,57,Office
+Pink,"(255, 192, 203)",White,"(255, 255, 255)","Chain, Watch",69,Office
+Green,"(0, 128, 0)",White,"(255, 255, 255)","Watch, Chain, Shoes",86,Office
+Grey,"(128, 128, 128)",White,"(255, 255, 255)","Shoes, Bracelet, Belt",99,Office
+White,"(255, 255, 255)",Black,"(0, 0, 0)",Belt,52,Office
+Green,"(0, 128, 0)",Blue,"(0, 0, 255)",Shoes,61,Casual
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)","Bracelet, Watch, Shoes",95,Casual
+Black,"(0, 0, 0)",Navy,"(0, 0, 128)","Belt, Bracelet, Watch",77,Party
+Black,"(0, 0, 0)",Navy,"(0, 0, 128)",Shoes,57,Party
+Pink,"(255, 192, 203)",Khaki,"(195, 176, 145)","Watch, Shoes",92,Office
+White,"(255, 255, 255)",Grey,"(128, 128, 128)",Shoes,91,Office
+Grey,"(128, 128, 128)",Khaki,"(195, 176, 145)",Belt,94,Casual
+Green,"(0, 128, 0)",Black,"(0, 0, 0)","Chain, Belt",58,Office
+Black,"(0, 0, 0)",Beige,"(245, 245, 220)",Watch,93,Party
+Blue,"(0, 0, 255)",Grey,"(128, 128, 128)",Watch,50,Casual
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)","Belt, Bracelet, Watch",95,Casual
+Green,"(0, 128, 0)",Khaki,"(195, 176, 145)",Chain,51,Office
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)","Watch, Shoes, Bracelet",64,Office
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)","Shoes, Belt",67,Office
+Maroon,"(128, 0, 0)",Black,"(0, 0, 0)",Chain,61,Office
+Navy,"(0, 0, 128)",Blue,"(0, 0, 255)","Belt, Bracelet, Shoes",64,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)",Belt,73,Office
+Maroon,"(128, 0, 0)",Navy,"(0, 0, 128)","Chain, Belt",81,Casual
+Grey,"(128, 128, 128)",Navy,"(0, 0, 128)","Bracelet, Watch, Shoes",81,Party
+Pink,"(255, 192, 203)",Brown,"(139, 69, 19)",Shoes,56,Party
+White,"(255, 255, 255)",Brown,"(139, 69, 19)","Belt, Watch, Bracelet",72,Office
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)","Bracelet, Chain, Watch",65,Casual
+Black,"(0, 0, 0)",White,"(255, 255, 255)",Bracelet,88,Office
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)",Chain,57,Party
+Red,"(255, 0, 0)",Navy,"(0, 0, 128)","Chain, Bracelet, Shoes",91,Office
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Belt, Shoes, Chain",68,Casual
+White,"(255, 255, 255)",White,"(255, 255, 255)","Belt, Bracelet",92,Office
+Navy,"(0, 0, 128)",Khaki,"(195, 176, 145)","Watch, Shoes, Chain",59,Casual
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)","Shoes, Bracelet",56,Party
+Grey,"(128, 128, 128)",Black,"(0, 0, 0)","Shoes, Watch, Bracelet",80,Casual
+Green,"(0, 128, 0)",Black,"(0, 0, 0)",Belt,78,Office
+Green,"(0, 128, 0)",Grey,"(128, 128, 128)",Bracelet,64,Office
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)","Bracelet, Shoes",59,Casual
+Black,"(0, 0, 0)",White,"(255, 255, 255)","Bracelet, Chain, Watch",77,Casual
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)",Bracelet,75,Office
+Red,"(255, 0, 0)",Khaki,"(195, 176, 145)","Chain, Belt, Watch",96,Office
+Pink,"(255, 192, 203)",Khaki,"(195, 176, 145)",Bracelet,53,Office
+Purple,"(128, 0, 128)",White,"(255, 255, 255)","Belt, Watch, Bracelet",84,Party
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)","Bracelet, Watch, Shoes",97,Casual
+Blue,"(0, 0, 255)",White,"(255, 255, 255)",Belt,67,Casual
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)",Chain,80,Party
+Pink,"(255, 192, 203)",Black,"(0, 0, 0)",Bracelet,68,Party
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)",Bracelet,81,Casual
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)",Chain,92,Party
+Purple,"(128, 0, 128)",Khaki,"(195, 176, 145)",Shoes,66,Casual
+Grey,"(128, 128, 128)",Black,"(0, 0, 0)","Chain, Shoes",98,Office
+Navy,"(0, 0, 128)",Beige,"(245, 245, 220)",Bracelet,59,Office
+Red,"(255, 0, 0)",Black,"(0, 0, 0)","Watch, Shoes, Belt",70,Office
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)","Watch, Bracelet, Chain",91,Casual
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)","Watch, Bracelet",75,Party
+Black,"(0, 0, 0)",Navy,"(0, 0, 128)",Bracelet,75,Party
+White,"(255, 255, 255)",Beige,"(245, 245, 220)","Bracelet, Belt",60,Party
+White,"(255, 255, 255)",Khaki,"(195, 176, 145)","Bracelet, Belt",59,Office
+Blue,"(0, 0, 255)",Blue,"(0, 0, 255)",Chain,53,Party
+Maroon,"(128, 0, 0)",Brown,"(139, 69, 19)",Shoes,88,Office
+Red,"(255, 0, 0)",Khaki,"(195, 176, 145)","Bracelet, Shoes",84,Office
+Green,"(0, 128, 0)",Blue,"(0, 0, 255)",Belt,81,Party
+Navy,"(0, 0, 128)",Grey,"(128, 128, 128)","Shoes, Bracelet, Watch",69,Office
+Black,"(0, 0, 0)",Grey,"(128, 128, 128)","Watch, Shoes",73,Party
+Black,"(0, 0, 0)",Blue,"(0, 0, 255)","Watch, Bracelet",64,Party
+Maroon,"(128, 0, 0)",Blue,"(0, 0, 255)","Belt, Bracelet, Chain",87,Casual
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)","Bracelet, Belt, Watch",67,Office
+Navy,"(0, 0, 128)",Navy,"(0, 0, 128)","Chain, Belt",64,Party
+Maroon,"(128, 0, 0)",Grey,"(128, 128, 128)",Belt,61,Office
+White,"(255, 255, 255)",Khaki,"(195, 176, 145)",Chain,70,Party
+Blue,"(0, 0, 255)",Blue,"(0, 0, 255)","Watch, Chain",70,Party
+Maroon,"(128, 0, 0)",Navy,"(0, 0, 128)","Shoes, Bracelet, Watch",66,Party
+Maroon,"(128, 0, 0)",Navy,"(0, 0, 128)",Chain,55,Office
+Grey,"(128, 128, 128)",Black,"(0, 0, 0)",Watch,83,Casual
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)",Chain,92,Office
+Navy,"(0, 0, 128)",Khaki,"(195, 176, 145)","Bracelet, Chain, Belt",84,Casual
+Purple,"(128, 0, 128)",Khaki,"(195, 176, 145)","Watch, Chain, Belt",89,Casual
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)","Shoes, Chain, Belt",79,Casual
+Red,"(255, 0, 0)",Khaki,"(195, 176, 145)","Shoes, Belt, Chain",73,Party
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)","Belt, Bracelet, Shoes",82,Party
+Green,"(0, 128, 0)",Beige,"(245, 245, 220)","Bracelet, Shoes, Belt",80,Office
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Watch, Chain",63,Party
+Green,"(0, 128, 0)",Beige,"(245, 245, 220)","Watch, Shoes, Bracelet",54,Casual
+Black,"(0, 0, 0)",White,"(255, 255, 255)","Chain, Bracelet, Shoes",93,Office
+Green,"(0, 128, 0)",Brown,"(139, 69, 19)","Chain, Belt",70,Casual
+Navy,"(0, 0, 128)",Navy,"(0, 0, 128)",Shoes,80,Party
+Maroon,"(128, 0, 0)",Khaki,"(195, 176, 145)","Chain, Bracelet",74,Party
+Purple,"(128, 0, 128)",Khaki,"(195, 176, 145)",Shoes,72,Party
+Navy,"(0, 0, 128)",Black,"(0, 0, 0)","Shoes, Chain",60,Office
+Maroon,"(128, 0, 0)",White,"(255, 255, 255)","Chain, Bracelet",98,Casual
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)","Watch, Bracelet",52,Office
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)",Shoes,90,Casual
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)",Watch,71,Office
+Grey,"(128, 128, 128)",Navy,"(0, 0, 128)","Bracelet, Belt",75,Casual
+Green,"(0, 128, 0)",Navy,"(0, 0, 128)","Bracelet, Watch, Chain",57,Party
+Maroon,"(128, 0, 0)",Beige,"(245, 245, 220)","Bracelet, Watch, Chain",75,Casual
+Green,"(0, 128, 0)",White,"(255, 255, 255)","Belt, Shoes, Watch",89,Office
+Maroon,"(128, 0, 0)",Beige,"(245, 245, 220)","Watch, Chain",80,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)",Shoes,65,Casual
+Navy,"(0, 0, 128)",Blue,"(0, 0, 255)","Chain, Bracelet",91,Party
+Blue,"(0, 0, 255)",Black,"(0, 0, 0)","Belt, Bracelet, Shoes",94,Office
+Black,"(0, 0, 0)",Grey,"(128, 128, 128)","Belt, Watch",82,Office
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)",Shoes,67,Party
+Pink,"(255, 192, 203)",Khaki,"(195, 176, 145)",Chain,87,Office
+Purple,"(128, 0, 128)",Brown,"(139, 69, 19)","Bracelet, Watch",59,Office
+Navy,"(0, 0, 128)",White,"(255, 255, 255)","Watch, Shoes",80,Office
+Green,"(0, 128, 0)",Brown,"(139, 69, 19)","Bracelet, Chain, Watch",55,Casual
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)","Shoes, Chain, Belt",58,Office
+White,"(255, 255, 255)",Grey,"(128, 128, 128)","Shoes, Watch, Bracelet",93,Casual
+Grey,"(128, 128, 128)",Khaki,"(195, 176, 145)","Belt, Shoes",70,Casual
+Purple,"(128, 0, 128)",Brown,"(139, 69, 19)","Chain, Shoes, Watch",81,Party
+Black,"(0, 0, 0)",Khaki,"(195, 176, 145)","Bracelet, Shoes",60,Casual
+Maroon,"(128, 0, 0)",Black,"(0, 0, 0)","Watch, Bracelet",60,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)",Shoes,60,Party
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)",Chain,93,Party
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)","Bracelet, Chain",68,Casual
+Maroon,"(128, 0, 0)",Beige,"(245, 245, 220)","Watch, Chain, Shoes",53,Party
+Pink,"(255, 192, 203)",White,"(255, 255, 255)","Belt, Chain",95,Office
+White,"(255, 255, 255)",Grey,"(128, 128, 128)","Watch, Shoes, Bracelet",95,Casual
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)",Belt,98,Party
+Maroon,"(128, 0, 0)",Black,"(0, 0, 0)",Shoes,51,Casual
+Black,"(0, 0, 0)",Navy,"(0, 0, 128)",Belt,74,Party
+Red,"(255, 0, 0)",Black,"(0, 0, 0)","Shoes, Chain",52,Office
+Blue,"(0, 0, 255)",Black,"(0, 0, 0)","Shoes, Watch, Chain",91,Party
+Pink,"(255, 192, 203)",Black,"(0, 0, 0)","Shoes, Bracelet",82,Party
+White,"(255, 255, 255)",White,"(255, 255, 255)",Belt,55,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Watch, Belt",100,Office
+Navy,"(0, 0, 128)",White,"(255, 255, 255)",Belt,57,Party
+Blue,"(0, 0, 255)",Black,"(0, 0, 0)",Chain,61,Office
+Purple,"(128, 0, 128)",Khaki,"(195, 176, 145)","Watch, Belt",51,Party
+Navy,"(0, 0, 128)",Blue,"(0, 0, 255)","Belt, Chain, Shoes",99,Party
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)","Shoes, Watch, Belt",83,Office
+Pink,"(255, 192, 203)",Black,"(0, 0, 0)","Chain, Bracelet, Shoes",83,Party
+White,"(255, 255, 255)",Khaki,"(195, 176, 145)",Shoes,73,Office
+Green,"(0, 128, 0)",Navy,"(0, 0, 128)",Shoes,60,Casual
+Blue,"(0, 0, 255)",Black,"(0, 0, 0)","Watch, Shoes, Chain",86,Casual
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)","Belt, Watch, Bracelet",98,Party
+Black,"(0, 0, 0)",Brown,"(139, 69, 19)",Belt,69,Casual
+Purple,"(128, 0, 128)",Blue,"(0, 0, 255)","Bracelet, Chain",52,Casual
+Black,"(0, 0, 0)",Navy,"(0, 0, 128)",Watch,66,Office
+Red,"(255, 0, 0)",Blue,"(0, 0, 255)","Bracelet, Chain",89,Casual
+Maroon,"(128, 0, 0)",Brown,"(139, 69, 19)","Chain, Belt, Bracelet",85,Office
+Navy,"(0, 0, 128)",Khaki,"(195, 176, 145)",Bracelet,61,Office
+Grey,"(128, 128, 128)",Khaki,"(195, 176, 145)","Shoes, Bracelet, Chain",84,Office
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Watch, Chain",70,Party
+White,"(255, 255, 255)",Khaki,"(195, 176, 145)","Chain, Bracelet, Watch",100,Party
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Bracelet, Shoes, Chain",62,Office
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)",Chain,53,Office
+White,"(255, 255, 255)",Black,"(0, 0, 0)","Shoes, Bracelet",81,Casual
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)","Belt, Bracelet, Chain",60,Casual
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)","Chain, Belt, Bracelet",80,Office
+Pink,"(255, 192, 203)",White,"(255, 255, 255)",Bracelet,55,Office
+Pink,"(255, 192, 203)",Beige,"(245, 245, 220)","Shoes, Watch, Chain",90,Casual
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)","Belt, Shoes, Watch",96,Office
+Maroon,"(128, 0, 0)",Blue,"(0, 0, 255)",Chain,55,Office
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)","Chain, Shoes, Watch",83,Office
+Blue,"(0, 0, 255)",Blue,"(0, 0, 255)","Chain, Bracelet, Shoes",85,Casual
+White,"(255, 255, 255)",Beige,"(245, 245, 220)",Belt,80,Party
+Blue,"(0, 0, 255)",Blue,"(0, 0, 255)","Belt, Chain",95,Office
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Chain, Belt, Watch",53,Party
+Navy,"(0, 0, 128)",White,"(255, 255, 255)","Bracelet, Shoes",93,Office
+Maroon,"(128, 0, 0)",Blue,"(0, 0, 255)","Shoes, Watch, Bracelet",53,Office
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)",Shoes,85,Party
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)","Shoes, Belt, Watch",100,Party

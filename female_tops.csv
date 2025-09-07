@@ -1,0 +1,201 @@
+Top Color,Top RGB,Bottom Color,Bottom RGB,Accessories,Popularity Score,Occasion
+Orange,"(255, 165, 0)",Pink,"(255, 192, 203)",Earrings,90,Casual
+Yellow,"(255, 255, 0)",Blue,"(0, 0, 255)",Bracelet,80,Casual
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)","Necklace, Bangles, Bracelet",85,Party
+White,"(255, 255, 255)",Brown,"(139, 69, 19)","Earrings, Necklace, Slippers",81,Office
+Yellow,"(255, 255, 0)",Blue,"(0, 0, 255)","Slippers, Bangles",51,Party
+Red,"(255, 0, 0)",Brown,"(139, 69, 19)","Necklace, Earrings, Bangles",72,Office
+Beige,"(245, 245, 220)",White,"(255, 255, 255)",Bracelet,51,Party
+Purple,"(128, 0, 128)",Grey,"(128, 128, 128)","Bracelet, Earrings, Bangles",89,Office
+Red,"(255, 0, 0)",Blue,"(0, 0, 255)","Bracelet, Slippers, Earrings",56,Party
+Pink,"(255, 192, 203)",Beige,"(245, 245, 220)","Bracelet, Bangles",84,Office
+White,"(255, 255, 255)",Pink,"(255, 192, 203)",Bracelet,74,Office
+Green,"(0, 128, 0)",Blue,"(0, 0, 255)","Slippers, Earrings",53,Party
+Grey,"(128, 128, 128)",White,"(255, 255, 255)","Necklace, Bracelet, Earrings",67,Party
+Purple,"(128, 0, 128)",Blue,"(0, 0, 255)",Slippers,94,Party
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)","Bracelet, Slippers",80,Office
+Grey,"(128, 128, 128)",Blue,"(0, 0, 255)","Slippers, Earrings, Bracelet",55,Casual
+Green,"(0, 128, 0)",Black,"(0, 0, 0)","Slippers, Necklace",63,Office
+Grey,"(128, 128, 128)",Grey,"(128, 128, 128)","Necklace, Slippers",50,Casual
+Yellow,"(255, 255, 0)",Brown,"(139, 69, 19)","Earrings, Slippers, Necklace",63,Casual
+White,"(255, 255, 255)",Black,"(0, 0, 0)","Bracelet, Bangles",78,Office
+Pink,"(255, 192, 203)",White,"(255, 255, 255)","Necklace, Bangles",91,Office
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)","Bracelet, Bangles, Necklace",87,Casual
+Beige,"(245, 245, 220)",White,"(255, 255, 255)",Bangles,96,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Earrings, Necklace",87,Office
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)","Bracelet, Necklace, Slippers",93,Office
+Green,"(0, 128, 0)",Blue,"(0, 0, 255)",Bracelet,64,Party
+Beige,"(245, 245, 220)",Beige,"(245, 245, 220)",Bracelet,77,Party
+Red,"(255, 0, 0)",White,"(255, 255, 255)",Slippers,78,Party
+Beige,"(245, 245, 220)",Black,"(0, 0, 0)","Slippers, Bracelet",92,Office
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Bracelet, Necklace, Slippers",80,Office
+Pink,"(255, 192, 203)",Beige,"(245, 245, 220)","Slippers, Necklace, Bracelet",77,Party
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)","Earrings, Bracelet, Necklace",98,Party
+Yellow,"(255, 255, 0)",Grey,"(128, 128, 128)",Bangles,94,Office
+Yellow,"(255, 255, 0)",Pink,"(255, 192, 203)",Slippers,70,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)",Bangles,95,Party
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)","Necklace, Bracelet",81,Party
+Beige,"(245, 245, 220)",White,"(255, 255, 255)",Necklace,100,Party
+Red,"(255, 0, 0)",Beige,"(245, 245, 220)",Slippers,68,Party
+Yellow,"(255, 255, 0)",Pink,"(255, 192, 203)",Bangles,65,Party
+Yellow,"(255, 255, 0)",Brown,"(139, 69, 19)",Bracelet,67,Party
+Red,"(255, 0, 0)",Black,"(0, 0, 0)","Bangles, Bracelet, Earrings",54,Party
+Yellow,"(255, 255, 0)",Brown,"(139, 69, 19)",Necklace,66,Office
+Orange,"(255, 165, 0)",Beige,"(245, 245, 220)","Bracelet, Necklace, Earrings",76,Office
+Grey,"(128, 128, 128)",Beige,"(245, 245, 220)","Bangles, Earrings",91,Party
+Purple,"(128, 0, 128)",Blue,"(0, 0, 255)",Bracelet,88,Casual
+Beige,"(245, 245, 220)",White,"(255, 255, 255)","Slippers, Bangles, Earrings",72,Party
+Yellow,"(255, 255, 0)",Navy,"(0, 0, 128)",Bracelet,76,Casual
+Yellow,"(255, 255, 0)",Grey,"(128, 128, 128)","Slippers, Bangles",67,Casual
+Orange,"(255, 165, 0)",White,"(255, 255, 255)","Necklace, Earrings",82,Office
+White,"(255, 255, 255)",Beige,"(245, 245, 220)","Bangles, Bracelet",87,Office
+Green,"(0, 128, 0)",Beige,"(245, 245, 220)",Bangles,61,Office
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)","Bracelet, Slippers",55,Party
+Pink,"(255, 192, 203)",Brown,"(139, 69, 19)","Earrings, Bangles, Bracelet",79,Casual
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)","Earrings, Bracelet, Slippers",81,Casual
+White,"(255, 255, 255)",White,"(255, 255, 255)","Bangles, Earrings, Necklace",96,Party
+White,"(255, 255, 255)",Grey,"(128, 128, 128)",Slippers,54,Office
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)","Necklace, Bracelet",71,Office
+Green,"(0, 128, 0)",Black,"(0, 0, 0)","Bangles, Slippers, Earrings",80,Office
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)","Earrings, Slippers, Bangles",91,Party
+Beige,"(245, 245, 220)",Black,"(0, 0, 0)","Slippers, Bracelet",93,Casual
+Yellow,"(255, 255, 0)",Beige,"(245, 245, 220)","Bracelet, Slippers",81,Casual
+Grey,"(128, 128, 128)",Pink,"(255, 192, 203)","Slippers, Earrings, Bangles",87,Party
+Yellow,"(255, 255, 0)",Black,"(0, 0, 0)",Earrings,52,Casual
+Purple,"(128, 0, 128)",Black,"(0, 0, 0)","Earrings, Bangles",99,Party
+Beige,"(245, 245, 220)",Pink,"(255, 192, 203)","Necklace, Earrings",97,Casual
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)",Slippers,62,Party
+Purple,"(128, 0, 128)",White,"(255, 255, 255)","Necklace, Earrings, Bracelet",72,Casual
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)",Earrings,63,Casual
+Red,"(255, 0, 0)",White,"(255, 255, 255)","Necklace, Slippers",95,Casual
+Beige,"(245, 245, 220)",Blue,"(0, 0, 255)","Necklace, Earrings, Slippers",56,Office
+Green,"(0, 128, 0)",White,"(255, 255, 255)","Earrings, Bracelet, Necklace",83,Party
+Purple,"(128, 0, 128)",White,"(255, 255, 255)",Bangles,68,Party
+Purple,"(128, 0, 128)",Pink,"(255, 192, 203)","Slippers, Bangles, Earrings",88,Office
+Green,"(0, 128, 0)",Grey,"(128, 128, 128)","Necklace, Bracelet",67,Office
+Beige,"(245, 245, 220)",Navy,"(0, 0, 128)","Necklace, Bracelet, Slippers",73,Casual
+Orange,"(255, 165, 0)",Blue,"(0, 0, 255)","Bracelet, Earrings",58,Party
+Orange,"(255, 165, 0)",Brown,"(139, 69, 19)","Bangles, Bracelet",85,Office
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)",Bracelet,62,Office
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)","Slippers, Bracelet",75,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Slippers, Earrings",67,Party
+Pink,"(255, 192, 203)",Brown,"(139, 69, 19)","Necklace, Slippers, Earrings",62,Party
+Grey,"(128, 128, 128)",Pink,"(255, 192, 203)","Bracelet, Slippers, Earrings",97,Casual
+Yellow,"(255, 255, 0)",Pink,"(255, 192, 203)","Bracelet, Earrings, Necklace",64,Casual
+Grey,"(128, 128, 128)",Blue,"(0, 0, 255)","Bracelet, Bangles",97,Casual
+Orange,"(255, 165, 0)",Navy,"(0, 0, 128)","Bracelet, Earrings, Slippers",94,Casual
+Beige,"(245, 245, 220)",Black,"(0, 0, 0)",Bangles,93,Casual
+Yellow,"(255, 255, 0)",Blue,"(0, 0, 255)","Necklace, Earrings",94,Casual
+White,"(255, 255, 255)",Beige,"(245, 245, 220)","Slippers, Bracelet, Earrings",99,Office
+Orange,"(255, 165, 0)",Brown,"(139, 69, 19)",Slippers,62,Casual
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Necklace, Bangles",98,Office
+Blue,"(0, 0, 255)",Grey,"(128, 128, 128)","Slippers, Bracelet",82,Office
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)",Bangles,71,Party
+Orange,"(255, 165, 0)",Beige,"(245, 245, 220)",Earrings,58,Party
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)",Slippers,53,Office
+Grey,"(128, 128, 128)",Blue,"(0, 0, 255)","Bangles, Necklace, Earrings",87,Office
+Pink,"(255, 192, 203)",White,"(255, 255, 255)",Bangles,84,Casual
+Orange,"(255, 165, 0)",Brown,"(139, 69, 19)","Bracelet, Slippers, Bangles",86,Party
+White,"(255, 255, 255)",Grey,"(128, 128, 128)","Bangles, Earrings, Slippers",76,Casual
+Pink,"(255, 192, 203)",Beige,"(245, 245, 220)","Earrings, Necklace, Bangles",53,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Bracelet, Earrings",64,Party
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)","Bangles, Bracelet",67,Office
+Beige,"(245, 245, 220)",Black,"(0, 0, 0)","Bracelet, Earrings",77,Casual
+Yellow,"(255, 255, 0)",Black,"(0, 0, 0)","Earrings, Slippers, Necklace",95,Casual
+Orange,"(255, 165, 0)",White,"(255, 255, 255)",Bangles,71,Party
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Necklace, Bangles",80,Casual
+Green,"(0, 128, 0)",Brown,"(139, 69, 19)","Necklace, Earrings",83,Casual
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Necklace, Bangles, Slippers",50,Office
+Orange,"(255, 165, 0)",Blue,"(0, 0, 255)","Bangles, Earrings, Necklace",55,Casual
+Purple,"(128, 0, 128)",Grey,"(128, 128, 128)","Slippers, Bangles, Necklace",70,Casual
+White,"(255, 255, 255)",White,"(255, 255, 255)",Necklace,76,Casual
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)",Earrings,67,Office
+Yellow,"(255, 255, 0)",Grey,"(128, 128, 128)","Bracelet, Necklace",97,Party
+Blue,"(0, 0, 255)",Brown,"(139, 69, 19)","Bracelet, Slippers",86,Casual
+Yellow,"(255, 255, 0)",Blue,"(0, 0, 255)","Bangles, Necklace, Earrings",94,Party
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)","Necklace, Bracelet",98,Party
+Green,"(0, 128, 0)",Navy,"(0, 0, 128)","Bangles, Necklace, Slippers",91,Office
+White,"(255, 255, 255)",Black,"(0, 0, 0)","Slippers, Necklace, Bracelet",90,Office
+Green,"(0, 128, 0)",Grey,"(128, 128, 128)",Earrings,83,Party
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)","Slippers, Bracelet, Necklace",99,Office
+Grey,"(128, 128, 128)",Beige,"(245, 245, 220)","Bangles, Bracelet, Slippers",77,Party
+Green,"(0, 128, 0)",Brown,"(139, 69, 19)","Necklace, Bangles, Slippers",84,Party
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)","Slippers, Bracelet",99,Party
+Beige,"(245, 245, 220)",Navy,"(0, 0, 128)","Earrings, Necklace",53,Casual
+Grey,"(128, 128, 128)",Blue,"(0, 0, 255)",Earrings,52,Party
+Pink,"(255, 192, 203)",Black,"(0, 0, 0)",Bangles,76,Casual
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)","Necklace, Bracelet",67,Party
+Red,"(255, 0, 0)",Pink,"(255, 192, 203)",Bangles,91,Office
+Red,"(255, 0, 0)",Black,"(0, 0, 0)",Earrings,70,Office
+Orange,"(255, 165, 0)",Navy,"(0, 0, 128)","Necklace, Slippers",100,Party
+Green,"(0, 128, 0)",Black,"(0, 0, 0)","Bangles, Bracelet, Slippers",96,Office
+Orange,"(255, 165, 0)",Brown,"(139, 69, 19)",Necklace,73,Office
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)",Bangles,78,Office
+Orange,"(255, 165, 0)",Beige,"(245, 245, 220)","Slippers, Bracelet, Necklace",81,Casual
+Red,"(255, 0, 0)",White,"(255, 255, 255)","Bracelet, Bangles, Earrings",71,Office
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)","Bangles, Earrings",84,Party
+Green,"(0, 128, 0)",Pink,"(255, 192, 203)",Earrings,63,Office
+Beige,"(245, 245, 220)",Grey,"(128, 128, 128)","Bracelet, Necklace",83,Office
+Beige,"(245, 245, 220)",Blue,"(0, 0, 255)",Earrings,72,Office
+Orange,"(255, 165, 0)",White,"(255, 255, 255)",Earrings,79,Casual
+Grey,"(128, 128, 128)",White,"(255, 255, 255)",Bangles,64,Office
+Pink,"(255, 192, 203)",Grey,"(128, 128, 128)","Slippers, Bracelet, Necklace",97,Office
+Green,"(0, 128, 0)",Black,"(0, 0, 0)",Bangles,72,Casual
+White,"(255, 255, 255)",Brown,"(139, 69, 19)","Bangles, Slippers, Bracelet",78,Party
+Purple,"(128, 0, 128)",White,"(255, 255, 255)",Earrings,90,Office
+Yellow,"(255, 255, 0)",Blue,"(0, 0, 255)",Earrings,54,Party
+Yellow,"(255, 255, 0)",Brown,"(139, 69, 19)","Slippers, Bangles, Bracelet",51,Party
+Orange,"(255, 165, 0)",White,"(255, 255, 255)","Earrings, Bracelet",86,Casual
+White,"(255, 255, 255)",Grey,"(128, 128, 128)","Slippers, Bangles",95,Office
+Purple,"(128, 0, 128)",Grey,"(128, 128, 128)",Bangles,75,Casual
+Orange,"(255, 165, 0)",White,"(255, 255, 255)","Bangles, Earrings",51,Casual
+Beige,"(245, 245, 220)",Beige,"(245, 245, 220)","Slippers, Bangles",96,Office
+Orange,"(255, 165, 0)",Brown,"(139, 69, 19)","Bangles, Bracelet",62,Party
+White,"(255, 255, 255)",Brown,"(139, 69, 19)","Earrings, Necklace",95,Office
+Grey,"(128, 128, 128)",Pink,"(255, 192, 203)",Bracelet,71,Office
+Green,"(0, 128, 0)",Black,"(0, 0, 0)",Earrings,54,Office
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)",Bangles,70,Office
+Grey,"(128, 128, 128)",Blue,"(0, 0, 255)","Earrings, Bracelet, Bangles",66,Party
+Beige,"(245, 245, 220)",Pink,"(255, 192, 203)","Slippers, Bracelet",83,Party
+Orange,"(255, 165, 0)",Grey,"(128, 128, 128)","Bangles, Earrings",54,Party
+White,"(255, 255, 255)",White,"(255, 255, 255)",Bangles,100,Party
+Pink,"(255, 192, 203)",Blue,"(0, 0, 255)",Bangles,83,Office
+Purple,"(128, 0, 128)",Beige,"(245, 245, 220)",Necklace,54,Office
+Orange,"(255, 165, 0)",White,"(255, 255, 255)",Earrings,68,Office
+Grey,"(128, 128, 128)",Navy,"(0, 0, 128)","Earrings, Bangles, Slippers",64,Party
+Grey,"(128, 128, 128)",Beige,"(245, 245, 220)","Bangles, Earrings",85,Casual
+Blue,"(0, 0, 255)",White,"(255, 255, 255)","Bangles, Earrings",100,Casual
+Purple,"(128, 0, 128)",Grey,"(128, 128, 128)","Slippers, Earrings, Bangles",84,Casual
+White,"(255, 255, 255)",Blue,"(0, 0, 255)","Bangles, Earrings, Bracelet",65,Party
+Beige,"(245, 245, 220)",Navy,"(0, 0, 128)",Bracelet,93,Office
+Pink,"(255, 192, 203)",Pink,"(255, 192, 203)","Earrings, Bangles",80,Office
+Green,"(0, 128, 0)",Beige,"(245, 245, 220)","Earrings, Bangles, Bracelet",58,Casual
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Slippers, Bracelet, Necklace",91,Party
+Purple,"(128, 0, 128)",White,"(255, 255, 255)","Necklace, Bangles",55,Office
+Orange,"(255, 165, 0)",Blue,"(0, 0, 255)","Earrings, Slippers, Bangles",88,Office
+Red,"(255, 0, 0)",White,"(255, 255, 255)",Necklace,89,Party
+Red,"(255, 0, 0)",Blue,"(0, 0, 255)","Bracelet, Slippers",70,Office
+Beige,"(245, 245, 220)",Beige,"(245, 245, 220)",Earrings,92,Casual
+Purple,"(128, 0, 128)",Pink,"(255, 192, 203)","Earrings, Bracelet, Necklace",64,Casual
+Beige,"(245, 245, 220)",Pink,"(255, 192, 203)","Slippers, Bracelet, Bangles",81,Party
+Green,"(0, 128, 0)",White,"(255, 255, 255)",Earrings,60,Party
+Red,"(255, 0, 0)",Grey,"(128, 128, 128)",Earrings,95,Casual
+Red,"(255, 0, 0)",Pink,"(255, 192, 203)","Bracelet, Slippers",86,Casual
+Blue,"(0, 0, 255)",Grey,"(128, 128, 128)","Slippers, Necklace, Bracelet",56,Casual
+Yellow,"(255, 255, 0)",Pink,"(255, 192, 203)","Slippers, Necklace",78,Office
+Red,"(255, 0, 0)",Navy,"(0, 0, 128)",Bracelet,87,Office
+Grey,"(128, 128, 128)",Brown,"(139, 69, 19)","Necklace, Slippers",100,Casual
+Beige,"(245, 245, 220)",Black,"(0, 0, 0)",Bangles,80,Casual
+Red,"(255, 0, 0)",Black,"(0, 0, 0)",Slippers,76,Party
+Pink,"(255, 192, 203)",Pink,"(255, 192, 203)","Necklace, Bracelet",71,Office
+Pink,"(255, 192, 203)",Navy,"(0, 0, 128)","Slippers, Bracelet, Earrings",64,Office
+Blue,"(0, 0, 255)",Grey,"(128, 128, 128)",Bangles,59,Party
+Pink,"(255, 192, 203)",White,"(255, 255, 255)","Necklace, Slippers",91,Office
+White,"(255, 255, 255)",White,"(255, 255, 255)","Earrings, Slippers, Bracelet",52,Party
+Blue,"(0, 0, 255)",Beige,"(245, 245, 220)","Earrings, Bangles",91,Office
+Orange,"(255, 165, 0)",White,"(255, 255, 255)","Bangles, Slippers",75,Party
+Purple,"(128, 0, 128)",White,"(255, 255, 255)","Bracelet, Bangles, Slippers",62,Casual
+Purple,"(128, 0, 128)",Navy,"(0, 0, 128)",Bracelet,78,Casual
+White,"(255, 255, 255)",Pink,"(255, 192, 203)","Necklace, Slippers, Bangles",75,Office
+Beige,"(245, 245, 220)",Navy,"(0, 0, 128)","Bracelet, Slippers, Bangles",79,Office
+Blue,"(0, 0, 255)",Navy,"(0, 0, 128)","Bracelet, Bangles, Slippers",60,Casual
