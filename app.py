@@ -14,7 +14,6 @@ def load_datasets():
 
 male_tops, male_bottoms, female_tops, female_bottoms = load_datasets()
 
-
 st.title("👕 Outfit Recommendation System")
 
 gender = st.selectbox("Select your gender:", ["Male", "Female"])
@@ -49,10 +48,7 @@ selected_color = st.selectbox(f"Choose your {color_col.lower()}:", df[color_col]
 show_accessories = st.checkbox("Show accessories?")
 top_n = st.slider("How many matches to show?", 1, 20, 10)
 
-
 if selected_color:
-
-   
     input_row = df[df[color_col] == selected_color].iloc[0]
     rgb_col = [col for col in df.columns if "RGB" in col][0]  
     input_rgb = np.array(ast.literal_eval(input_row[rgb_col])).reshape(1, -1)
@@ -70,14 +66,12 @@ if selected_color:
             "Popularity": row.get("Popularity Score", 0)
         })
 
-    
     results = sorted(
         results,
         key=lambda x: (x["Similarity"] * 0.7 + x["Popularity"] * 0.3),
         reverse=True
     )
 
-    
     st.subheader("🎨 Recommended Matches")
     for res in results[:top_n]:
         st.markdown(
@@ -86,5 +80,4 @@ if selected_color:
         )
         if show_accessories and res["Accessories"]:
             st.markdown(f"🧢 *Accessories:* {res['Accessories']}")
-        if res["Image"]:
-            st.image(res["Image"], width=150)
+        st.markdown("---")
