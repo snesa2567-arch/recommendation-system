@@ -72,7 +72,7 @@ if selected_color:
     results = sorted(results, key=lambda x: x["Popularity"], reverse=True)
 
     st.subheader("Recommended Matches 🎨")
-    for res in results[:5]:
+    for res in results[:10]:
         st.write(f"✅ Match: {res['Color']} | Popularity: {res['Popularity']}")
         if show_accessories and res["Accessories"]:
             st.write(f"   Accessories: {res['Accessories']}")
