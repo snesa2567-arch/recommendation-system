@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load datasets
+
 @st.cache_data
 def load_datasets():
     male_tops = pd.read_csv("male_tops.csv")
@@ -14,7 +14,7 @@ def load_datasets():
 
 male_tops, male_bottoms, female_tops, female_bottoms = load_datasets()
 
-# App UI
+
 st.title("👕 Outfit Recommendation System")
 
 gender = st.selectbox("Select your gender:", ["Male", "Female"])
@@ -32,7 +32,7 @@ if gender == "Male":
         color_col = "Bottom Color"
         match_col = "Top Color"
 
-else:  # Female
+else:  
     choice = st.radio("What do you want to start with?", ["Top", "Bottom"])
     if choice == "Top":
         df = female_tops
@@ -45,13 +45,13 @@ else:  # Female
         color_col = "Bottom Color"
         match_col = "Top Color"
 
-# User selects a color
+
 selected_color = st.selectbox(f"Choose your {color_col.lower()}:", df[color_col].unique())
 
 show_accessories = st.checkbox("Show accessories?")
 
 if selected_color:
-    # Get input RGB vector
+
     input_row = df[df[color_col] == selected_color].iloc[0]
     rgb_col = [col for col in df.columns if "RGB" in col][0]  # detect RGB column
     input_rgb = np.array(eval(input_row[rgb_col])).reshape(1, -1)
@@ -68,7 +68,7 @@ if selected_color:
             "Popularity": row.get("Popularity Score", 0)
         })
 
-    # Sort by popularity
+    
     results = sorted(results, key=lambda x: x["Popularity"], reverse=True)
 
     st.subheader("Recommended Matches 🎨")
