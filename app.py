@@ -4,7 +4,6 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import ast
 
-# ------------------ Load Datasets ------------------
 @st.cache_data
 def load_datasets():
     male_tops = pd.read_csv("male_tops.csv")
@@ -15,7 +14,7 @@ def load_datasets():
 
 male_tops, male_bottoms, female_tops, female_bottoms = load_datasets()
 
-# ------------------ UI ------------------
+
 st.title("👕 Outfit Recommendation System")
 
 gender = st.selectbox("Select your gender:", ["Male", "Female"])
@@ -50,10 +49,10 @@ selected_color = st.selectbox(f"Choose your {color_col.lower()}:", df[color_col]
 show_accessories = st.checkbox("Show accessories?")
 top_n = st.slider("How many matches to show?", 1, 20, 10)
 
-# ------------------ Recommendation Logic ------------------
+
 if selected_color:
 
-    # Pick one matching row for selected color
+   
     input_row = df[df[color_col] == selected_color].iloc[0]
     rgb_col = [col for col in df.columns if "RGB" in col][0]  
     input_rgb = np.array(ast.literal_eval(input_row[rgb_col])).reshape(1, -1)
@@ -68,18 +67,17 @@ if selected_color:
             "Color": row[match_col],
             "Similarity": sim,
             "Accessories": row.get("Accessories", None),
-            "Popularity": row.get("Popularity Score", 0),
-            "Image": row.get("Image URL", None)  # optional
+            "Popularity": row.get("Popularity Score", 0)
         })
 
-    # Weighted sorting: 70% similarity + 30% popularity
+    
     results = sorted(
         results,
         key=lambda x: (x["Similarity"] * 0.7 + x["Popularity"] * 0.3),
         reverse=True
     )
 
-    # ------------------ Output ------------------
+    
     st.subheader("🎨 Recommended Matches")
     for res in results[:top_n]:
         st.markdown(
